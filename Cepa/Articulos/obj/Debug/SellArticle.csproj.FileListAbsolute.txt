@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Articulos\bin\Debug\Articulos.dll
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Articulos\bin\Debug\Articulos.pdb
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Articulos\obj\Debug\SellArticle.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Articulos\obj\Debug\Articulos.dll
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Articulos\obj\Debug\Articulos.pdb
