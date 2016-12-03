@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\bin\Debug\GUI.exe.config
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\bin\Debug\GUI.exe
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\bin\Debug\GUI.pdb
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\obj\Debug\GUI.exe
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\obj\Debug\GUI.pdb
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\bin\Debug\Articulos.dll
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\bin\Debug\Customers.dll
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\bin\Debug\CustomExceptions.dll
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\bin\Debug\Articulos.pdb
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\bin\Debug\Customers.pdb
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\GUI\bin\Debug\CustomExceptions.pdb

@@ -77,6 +77,20 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Articulos\ItemsForSale.csproj">
+      <Project>{76a7eb0c-1959-4d70-8dd1-795de5e18107}</Project>
+      <Name>ItemsForSale</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Customers\Customers.csproj">
+      <Project>{978889b1-132d-48c2-bdef-f00737811b2d}</Project>
+      <Name>Customers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CustomExceptions\CustomExceptions.csproj">
+      <Project>{5c9bd51e-079d-473a-9368-d2b03d6f3b70}</Project>
+      <Name>CustomExceptions</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

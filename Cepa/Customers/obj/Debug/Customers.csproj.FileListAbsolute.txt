@@ -1,0 +1,4 @@
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Customers\bin\Debug\Customers.dll
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Customers\bin\Debug\Customers.pdb
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Customers\obj\Debug\Customers.dll
+C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Customers\obj\Debug\Customers.pdb
