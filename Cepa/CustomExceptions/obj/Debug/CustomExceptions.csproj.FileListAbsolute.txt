@@ -3,3 +3,8 @@ C:\Users\Administrador\Desktop\Develop\cepa\Cepa\CustomExceptions\bin\Debug\Cust
 C:\Users\Administrador\Desktop\Develop\cepa\Cepa\CustomExceptions\obj\Debug\CustomExceptions.dll
 C:\Users\Administrador\Desktop\Develop\cepa\Cepa\CustomExceptions\obj\Debug\CustomExceptions.pdb
 C:\Users\Administrador\Desktop\Develop\cepa\Cepa\CustomExceptions\obj\Debug\CustomExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\CustomExceptions\bin\Debug\CustomExceptions.dll
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\CustomExceptions\obj\Debug\CustomExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\CustomExceptions\obj\Debug\CustomExceptions.dll
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\CustomExceptions\obj\Debug\CustomExceptions.pdb

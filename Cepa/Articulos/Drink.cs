@@ -58,14 +58,20 @@ namespace ItemsForSale
             get { return this._stock; }
             set { this._stock = value; }
         }
+
+        public override int Order
+        {
+            get { return this._stock; }
+            set { this._stock = value; }
+        }
         #endregion
 
         #region --------------CONSTRUCTORES------------
 
         public Drink(){ }
 
-        public Drink(int drinkIdNumber, string drinkCommentary, string drinkBrand, int drinkPrice, string drinkFlavor, int drinkLiters, int drinkPacking, int drinkStock)
-            : base(drinkIdNumber, drinkCommentary, drinkBrand, drinkPrice,drinkPacking, drinkStock)
+        public Drink(int drinkIdNumber, string drinkCommentary, string drinkBrand, int drinkPrice, string drinkFlavor, int drinkLiters, int drinkPacking, int drinkStock, int drinkOrder)
+            : base(drinkIdNumber, drinkCommentary, drinkBrand, drinkPrice,drinkPacking, drinkStock, drinkOrder)
         {
             this._flavor = drinkFlavor;
             this._liters = drinkLiters;

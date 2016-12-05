@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Appetizer.cs" />
     <Compile Include="Drink.cs" />
+    <Compile Include="EnumCategory.cs" />
     <Compile Include="Pasta.cs" />
     <Compile Include="PriceList.cs" />
     <Compile Include="Soda.cs" />

@@ -63,13 +63,18 @@ namespace ItemsForSale
             set { this._stock = value; }
         }
 
+        public override int Order
+        {
+            get { return this._stock; }
+            set { this._stock = value; }
+        }
         #endregion
 
         #region --------------CONSTRUCTORES------------
         public Pasta() { }
 
-        public Pasta(int pastaIdNumber, string pastaCommentary, string pastaBrand, string pastaType, int pastaPrice, int pastaWeightInGrams, int pastaPacking, int stock)
-            : base(pastaIdNumber, pastaCommentary, pastaBrand, pastaPrice, pastaPacking, stock)
+        public Pasta(int pastaIdNumber, string pastaCommentary, string pastaBrand, string pastaType, int pastaPrice, int pastaWeightInGrams, int pastaPacking, int pastaStock, int pastaOrder)
+            : base(pastaIdNumber, pastaCommentary, pastaBrand, pastaPrice, pastaPacking, pastaStock, pastaOrder)
         {
             this._type = pastaType;
             this._weightInGrams = pastaWeightInGrams;

@@ -38,8 +38,8 @@ namespace ItemsForSale
         #region --------------CONSTRUCTORES------------
         public Appetizer() { }
 
-        public Appetizer(int appetizerIdNumber, string appetizerCommentary, string appetizerBrand, int appetizerPrice, string appetizerLiqueur, string appetizerFlavor, int appetizerLiters, int appetizerPacking, int appetizerStock)
-            : base(appetizerIdNumber, appetizerCommentary, appetizerBrand, appetizerPrice, appetizerFlavor, appetizerLiters, appetizerPacking, appetizerStock)
+        public Appetizer(int appetizerIdNumber, string appetizerCommentary, string appetizerBrand, int appetizerPrice, string appetizerLiqueur, string appetizerFlavor, int appetizerLiters, int appetizerPacking, int appetizerStock,int appetizerOrder)
+            : base(appetizerIdNumber, appetizerCommentary, appetizerBrand, appetizerPrice, appetizerFlavor, appetizerLiters, appetizerPacking, appetizerStock,appetizerOrder)
         {
             this._liqueur = appetizerLiqueur;
         }

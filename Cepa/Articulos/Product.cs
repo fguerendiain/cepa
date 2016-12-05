@@ -22,6 +22,7 @@ namespace ItemsForSale
         protected string _commentary; //comentario
         protected int _packing; //empaque
         protected int _stock;
+        protected int _order;
         #endregion
 
         #region ---------------PROPIEDADES-------------
@@ -36,13 +37,14 @@ namespace ItemsForSale
         public abstract string Commentary { get; set; }
         public abstract int Packing { get; set; }
         public abstract int Stock { get; set; }
+        public abstract int Order { get; set; }
         #endregion
 
         #region --------------CONSTRUCTORES------------
 
         public Product() { }
 
-        public Product(int idNumber, string productCommentary, string productBrand, int productPrice, int productPacking, int stock)
+        public Product(int idNumber, string productCommentary, string productBrand, int productPrice, int productPacking, int stock, int order)
         {
             this._idNumber = idNumber;
             this._commentary = productCommentary;
@@ -50,6 +52,7 @@ namespace ItemsForSale
             this._price = productPrice;
             this._packing = productPacking;
             this._stock = stock;
+            this._order = order;
         }
         #endregion
     }

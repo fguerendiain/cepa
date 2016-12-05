@@ -37,8 +37,8 @@ namespace ItemsForSale
         #region --------------CONSTRUCTORES------------
         public Wine() { }
 
-        public Wine(int wineIdNumber, string wineCommentary, string wineBrand, int winePrice, string wineCellar, string wineFlavor, int wineLiters, int winePacking, int wineStock)
-            : base(wineIdNumber, wineCommentary, wineBrand, winePrice, wineFlavor, wineLiters, winePacking, wineStock)
+        public Wine(int wineIdNumber, string wineCommentary, string wineBrand, int winePrice, string wineCellar, string wineFlavor, int wineLiters, int winePacking, int wineStock, int wineOrder)
+            : base(wineIdNumber, wineCommentary, wineBrand, winePrice, wineFlavor, wineLiters, winePacking, wineStock, wineOrder)
         {
             this._cellar = wineCellar;
         }

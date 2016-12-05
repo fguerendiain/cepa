@@ -28,8 +28,8 @@ namespace ItemsForSale
         #region --------------CONSTRUCTORES------------
         public Soda() { }
 
-        public Soda(int sodaIdNumber, string sodaCommentary, string sodaBrand, int sodaPrice, string sodaFlavor, int sodaLiters, int sodaPacking, int sodaStock)
-            : base(sodaIdNumber,sodaCommentary, sodaBrand, sodaPrice, sodaFlavor, sodaLiters, sodaPacking, sodaStock)
+        public Soda(int sodaIdNumber, string sodaCommentary, string sodaBrand, int sodaPrice, string sodaFlavor, int sodaLiters, int sodaPacking, int sodaStock, int sodaOrder)
+            : base(sodaIdNumber,sodaCommentary, sodaBrand, sodaPrice, sodaFlavor, sodaLiters, sodaPacking, sodaStock, sodaOrder)
         {
         }
         #endregion

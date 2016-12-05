@@ -5,3 +5,10 @@ C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Articulos\obj\Debug\Articulos.d
 C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Articulos\obj\Debug\Articulos.pdb
 C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Articulos\bin\Debug\CustomExceptions.dll
 C:\Users\Administrador\Desktop\Develop\cepa\Cepa\Articulos\bin\Debug\CustomExceptions.pdb
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\Articulos\bin\Debug\Articulos.dll
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\Articulos\bin\Debug\Articulos.pdb
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\Articulos\bin\Debug\CustomExceptions.dll
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\Articulos\bin\Debug\CustomExceptions.pdb
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\Articulos\obj\Debug\ItemsForSale.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\Articulos\obj\Debug\Articulos.dll
+C:\Users\Administrador\Documents\Proyectos\cepa\Cepa\Articulos\obj\Debug\Articulos.pdb
